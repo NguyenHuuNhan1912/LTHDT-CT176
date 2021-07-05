@@ -1,4 +1,4 @@
-![alt tag](https://github.com/NguyenHuuNhan1912/NguyenHuuNhan1912/blob/main/Screenshot_2021-07-06-00-24-39-92.jpg) LTHDT_CT176
+![alt # LTHDT_CT176
 
 [1. Khái niệm quan trọng trong lập trình hướng đối tượng](https://github.com/NguyenHuuNhan1912/LTHDT_CT176/tree/master/Ly_Thuyet)
 
