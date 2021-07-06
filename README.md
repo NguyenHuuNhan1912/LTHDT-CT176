@@ -1,5 +1,4 @@
-LTHDT
-![alt tag](https://github.com/NguyenHuuNhan1912/NguyenHuuNhan1912/blob/main/java_93883.ico)
+![alt tag](https://github.com/NguyenHuuNhan1912/NguyenHuuNhan1912/blob/main/java_93883.ico) LTHDT
 
 [1. Khái niệm quan trọng trong lập trình hướng đối tượng](https://github.com/NguyenHuuNhan1912/LTHDT_CT176/tree/master/Ly_Thuyet)
 
