@@ -1,4 +1,4 @@
-![alt # LTHDT_CT176
+# LTHDT_CT176
 
 [1. Khái niệm quan trọng trong lập trình hướng đối tượng](https://github.com/NguyenHuuNhan1912/LTHDT_CT176/tree/master/Ly_Thuyet)
 
