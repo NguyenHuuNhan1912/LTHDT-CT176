@@ -59,7 +59,7 @@ public class CThu extends CNguoi{
 		else if(vitri.equals("Tien dao")) luongtangthem = 7000000;
 		long luongthuong = sobanthang*500000;
 		long tienluong_khong_thue = luongcoban + luongtangthem + luongthuong;
-		Long tienluong_chinh_thuc = tienluong_khong_thue - ((tienluong_khong_thue*10)/100);
+		long tienluong_chinh_thuc = tienluong_khong_thue - ((tienluong_khong_thue*10)/100);
 		return tienluong_chinh_thuc;
 	}
 	public static void main(String[] args){
