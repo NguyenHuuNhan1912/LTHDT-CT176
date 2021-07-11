@@ -9,4 +9,6 @@
 [3. Tổng hợp các **`đề thi thử lý thuyết`** và **`thực hành`** **có lời giải**](https://github.com/NguyenHuuNhan1912/LTHDT_CT176/tree/master/De_Thi_Thu)
 
 
-![alt tag](https://github.com/NguyenHuuNhan1912/NguyenHuuNhan1912/blob/main/i16.png)
+<p align="center">
+   <img src="https://miro.medium.com/max/1400/1*lhOax3cZATGZwEhG0uTYRA.gif">
+</p>
