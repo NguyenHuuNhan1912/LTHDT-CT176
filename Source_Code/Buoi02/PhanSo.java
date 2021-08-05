@@ -35,20 +35,14 @@ public class PhanSo{
 	}
 
 	//Hàm in phân số có kiểu trả về (Kiểu String)
-	public String toString(){
-		String s = Integer.toString(tuso);
-		if(mauso==1)
-			return s;
-				else if(tuso==0)
-					return ("0");
-						else if(tuso>0 && mauso<0)
-							return (-tuso+"/"+(-mauso));
-								else if(tuso<0 && mauso<0)
-										return (-tuso+"/"+(-mauso));
-										else
-											return (tuso+"/"+mauso);
-	}
-
+	 public String toString(){
+            String s = Integer.toString(tuSo);
+            if(tuSo==0) return "0";
+              else if(mauSo==1) return s; 
+                 else if(tuSo==mauSo) return "1";
+                    else if(tuSo*mauSo<0) return((-tuSo)+"/"+Math.abs(mauSo));
+                       else return(Math.abs(tuSo)+"/"+Math.abs(mauSo));
+        }
 	//Hàm tìm ước chung lớn nhất
 	public int gcd(int a, int b){
 		int temp;
