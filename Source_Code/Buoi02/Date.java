@@ -33,14 +33,13 @@ public class Date{
 			return true;
 		return false;
 	}
-
+	
 	//Hàm kiểm tra dữ liệu có hợp lệ hay không
 	public boolean hople(){
 		int arr[] = {0,31,28,31,30,31,30,31,31,30,31,30,31};
-		if(leapYear())
-			arr[2] = 29;
-		if(day>0 && month>0 && year>0){
-			if(day<=arr[month] && month<13){
+		if(leapYear()) arr[2] = 29;
+		if(day>0 && (month>0 && month<13) && year>0){
+			if(day<=arr[month]){
 				return true;
 			}
 		}
